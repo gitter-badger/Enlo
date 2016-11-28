@@ -1,5 +1,7 @@
 # Lalo
 
+[![Join the chat at https://gitter.im/freechat-project/Enlo](https://badges.gitter.im/freechat-project/Enlo.svg)](https://gitter.im/freechat-project/Enlo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Lalo Schifrin](http://i.imgur.com/aU3Ol.jpg)
 
 An experimental Node.js IRC server with a WebSocket based interface.
